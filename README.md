@@ -1,5 +1,6 @@
 # R-C-Tester
  Resistance and capacitance meter with autoranging
+ 
  Christoffer Karlsson 2022
 
  Simple device for measuring resistor and capacitor values
